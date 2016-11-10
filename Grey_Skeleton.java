@@ -1,3 +1,8 @@
+/* This plugin was created by Joost Willemse
+ *  It was based on the following papers Kundu et al. 1991, A parallel graytone thinning algorithm
+ *  as well as Zhang & Suen. 1984, A fast Parallel algorhitm for thinning digital patterns
+ */
+
 package HomeMade.Tools;
 import ij.*;
 import ij.process.*;
